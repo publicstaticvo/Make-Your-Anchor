@@ -6,11 +6,11 @@ body_weight_dir=/content/drive/MyDrive/make-your-anchor/checkpoints/seth/body
 # path to the head model folder
 head_weight_dir=/content/drive/MyDrive/make-your-anchor/checkpoints/seth/head
 # path to the input poses
-body_input_dir=/content/mya/inference/seth/poses/seth1
+body_input_dir=/content/Make-Your-Anchor/inference/seth/poses/seth1
 # path to the reference body appearance
-body_prompt_img_pth=/content/mya/inference/seth/appearance/body.png
+body_prompt_img_pth=/content/Make-Your-Anchor/inference/seth/appearance/body.png
 # path to the reference head appearance
-head_prompt_img_pth=/content/mya/inference/seth/appearance/head.png
+head_prompt_img_pth=/content/Make-Your-Anchor/inference/seth/appearance/head.png
 
 # pipe_path=runwayml/stable-diffusion-v1-5
 # pipe_inpainting_path=runwayml/stable-diffusion-inpainting
